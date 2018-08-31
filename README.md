@@ -1,1 +1,1 @@
-# SmartINDUSTRY
+# SmartIndustry
